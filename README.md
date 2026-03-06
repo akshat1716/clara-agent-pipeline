@@ -1,5 +1,6 @@
 # Clara Answers – Zero-Cost Automation Pipeline
-
+## Demo Video
+https://www.loom.com/share/072837510a2544f9b7ee4f48ff4a2435
 A **local, rule-based** pipeline that turns demo call and onboarding call transcripts into structured account memos and Retell agent specs, with versioning (v1 → v2) and changelog generation. No paid APIs; no hallucination of missing data.
 
 ---
